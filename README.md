@@ -1,9 +1,8 @@
 # boucha
 
 
-|date|tea|spices|sugar|preparation|Scoby|Bottling| 
-|9/2|
-2* Yerba 
+| date | tea | spices | sugar | preparation | Scoby | Bottling | 
+|9/2|2* Yerba 
 2* l/g
 1* Brry‘s
 1 Pomegranate
