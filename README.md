@@ -1,7 +1,7 @@
 # Kambucha
 
 
-| batch | Date | tea | spices | sugar | preparation | Scoby | Bottling|2nd Ferm |Result | 
+| batch | Date | tea | spices |sugar| preparation |Scoby|Bottling|2nd Ferm|Result| 
 -------|-------|-----|--------|-------|-------------|-------|---------------|-----------------|-------|
 |#9 |9/10/2019| Mountain Ask| 2 x passion elder, 2 x elder flower, 2 green match|1/2 sugar |
 |#8 |9/7/2019| PINE (Pale)| 4 x Green tea Matcha, 2 x L/G|1/2 sugar |
