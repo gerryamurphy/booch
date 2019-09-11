@@ -3,7 +3,7 @@
 
 | batch | Date | Name | Tea |sugar| preparation |Scoby|Bottling|2nd Ferm|Result| 
 -------|-------|-----|--------|-------|-------------|-------|---------------|-----------------|-------|
-|#9 |9/10/2019| Mountain Ask| 2 x passion elder, 2 x elder flower, 2 green match|1/2 sugar |
+|#9 |9/10/2019| Mountain Ash| 2 x passion elder, 2 x elder flower, 2 green match|1/2 sugar |
 |#8 |9/7/2019| PINE (Pale)| 4 x Green tea Matcha, 2 x L/G|1/2 sugar |
 |#7 |9/7/2019| PINE (Dark)| 1 x Barry, 1 , Roobus, 3 x green, 1 x Yerba|1/2 sugar |
 |#6 |discarded (dead scoby)|
