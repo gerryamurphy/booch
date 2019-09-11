@@ -2,7 +2,7 @@
 
 
 | batch | Date | tea | spices | sugar | preparation | Scoby | Bottling Date |2nd Fermentation |Result | 
--------|-------|-----|--------|-------|-------------|-------|----------|----------|
+-------|-------|-----|--------|-------|-------------|-------|---------------|-----------------|-------|
 |#7 |9/7/2019| PINE (Pale)| 4 x Green tea Matcha, 2 x L/G|1/2 sugar |
 |#7 |9/7/2019| PINE (Dark)| 1 x Barry, 1 , Roobus, 3 x green, 1 x Yerba|1/2 sugar |
 |#6 |discarded (dead scoby)|
